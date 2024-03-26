@@ -1,0 +1,8 @@
+Password: jVLs5Zd7u7w6HBan
+
+username: attiazero
+
+mongodb+srv://attiazero:jVLs5Zd7u7w6HBan@backenddb.rpqlaqi.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
+
+
+mongodb+srv://attiazero:jVLs5Zd7u7w6HBan@backenddb.rpqlaqi.mongodb.net/Node-API?retryWrites=true&w=majority&appName=BackendDB
